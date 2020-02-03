@@ -1,6 +1,6 @@
 ### Introduction to Python Programming - BIOF309 - FAES
 
-[![Join the chat at https://gitter.im/biof309/spring_2020_thursdays](https://badges.gitter.im/biof309/spring_2020_thursdays.svg)](https://gitter.im/biof309/spring_2020_thursdays?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/biof309/spring_2020_thursdays](https://badges.gitter.im/biof309/spring_2020_thursdays.svg)](https://gitter.im/biof309/spring2020?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **Time: Monday 6:00PM - 8:00PM**
 
