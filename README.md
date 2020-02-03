@@ -1,5 +1,7 @@
 ### Introduction to Python Programming - BIOF309 - FAES
 
+[![Join the chat at https://gitter.im/biof309/spring2020](https://badges.gitter.im/biof309/spring2020.svg)](https://gitter.im/biof309/spring2020?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **Time: Monday 6:00PM - 8:00PM**
 
 Changes are tracked using the [git version control system](https://git-scm.com/). Material for this syllabus  is drawn from pre-existing courses [here](https://github.com/biof309/fall2019) and [here](https://github.com/marskar/biof309_fall2018) (This document is subject to revision)
