@@ -1,6 +1,6 @@
 ### Introduction to Python Programming - BIOF309 - FAES
 
-**Time: Thursday 6:00PM - 8:00PM**
+**Time: Monday 6:00PM - 8:00PM**
 
 Changes are tracked using the [git version control system](https://git-scm.com/). Material for this syllabus  is drawn from pre-existing courses [here](https://github.com/biof309/fall2019) and [here](https://github.com/marskar/biof309_fall2018) (This document is subject to revision)
 
@@ -8,7 +8,7 @@ Changes are tracked using the [git version control system](https://git-scm.com/)
 Instructors
 -----------
 
-* John Lee 
+* Martin Skarzynski 
 * Emily Yaklich (TA)
 * Suhwan Lee(TA)
 
@@ -50,19 +50,19 @@ Approximate Schedule (subject to substantial revision)
 
 | #  |Date| Title                                   | Lead|
 |----|----|-----------------------------------------|---------|
-|1 |2020-02-06|Introduction                                   |John|
-|2 |2020-02-13|Jupyter, python, and bash                      |*|
-|3 |2020-02-20|A python whirlwind (Part 1)                    |John|
-|4 |2020-02-27|A python whirlwind (Part 2)                    |John|
-|5 |2020-03-05|Git                                            |John|
-|6 |2020-03-12|Using what we have learned                     |John|
-|7 |2020-03-19|More advance git usage                         |John|
-|8 |2020-03-26|Private methods, and structuring our own code. |*|
-|9 |2020-04-02|A python whirlwind (Part 3)                    |*|
-|10|2020-04-09|A python whirlwind (Part 4)                    |John|
-|11|2020-04-16|Packaging python code                          |John|
-|12|2020-04-23|Final Project Clinic                           |All Instructors|
-|13|2020-04-30|Final Project Clinic                           |All Instructors|
+|1 |2020-02-03|Introduction                                   |Martin|
+|2 |2020-02-10|Jupyter, python, and bash                      |*|
+|3 |2020-02-17|A python whirlwind (Part 1)                    |Martin|
+|4 |2020-02-24|A python whirlwind (Part 2)                    |Martin|
+|5 |2020-03-02|Git                                            |Martin|
+|6 |2020-03-09|Using what we have learned                     |Martin|
+|7 |2020-03-16|More advance git usage                         |Martin|
+|8 |2020-03-23|Private methods, and structuring our own code. |*|
+|9 |2020-03-30|A python whirlwind (Part 3)                    |*|
+|10|2020-04-06|A python whirlwind (Part 4)                    |Martin|
+|11|2020-04-13|Packaging python code                          |Martin|
+|12|2020-04-20|Final Project Clinic                           |All Instructors|
+|13|2020-04-27|Final Project Clinic                           |All Instructors|
 |14|2020-05-04|Final Project Clinic                           |All Instructors|
 
 
