@@ -6,15 +6,16 @@
 
 **Time: Monday 6:00PM - 8:00PM**
 
-Changes are tracked using the [git version control system](https://git-scm.com/). Material for this syllabus  is drawn from pre-existing courses [here](https://github.com/biof309/fall2019) and [here](https://github.com/marskar/biof309_fall2018) (This document is subject to revision)
+Changes are tracked using the [git version control system](https://git-scm.com/). Material for this syllabus  is drawn from previous semester, e.g. [Fall 2019](https://github.com/biof309/fall2019), [Spring2019](https://github.com/biof309/spring2019), and [Fall 2018](https://github.com/marskar/biof309_fall2018).
 
+**This document is subject to revision!**
 
 Instructors
 -----------
 
 * Martin Skarzynski 
 * Emily Yaklich (TA)
-* Suhwan Lee(TA)
+* Suhwan (Paul) Lee (TA)
 
 Course Description
 ------------------
